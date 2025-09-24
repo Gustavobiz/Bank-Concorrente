@@ -9,8 +9,13 @@ public class Main {
         Thread t1 = new Thread(transferencia1, "Thread-1 (A->B)");
         Thread t2 = new Thread(transferencia2, "Thread-2 (B->A)");
 //debugg
-/*fff
+/*
  * 
+ * s
+ * s
+ * s
+ * s
+ * s
  */
 
         t1.start();
