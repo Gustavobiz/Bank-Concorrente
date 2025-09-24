@@ -10,17 +10,7 @@ public class Main {
         Thread t2 = new Thread(transferencia2, "Thread-2 (B->A)");
 //debugg
 /*fff
- * d
- * d
- * d
- * d
- * d
- * d
- * d
- * dd
  * 
- * d
- * ffs
  */
 
         t1.start();
